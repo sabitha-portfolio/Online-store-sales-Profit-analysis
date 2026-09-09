@@ -2,7 +2,7 @@
 
 ## 📊 Project Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](https://github.com/sabitha-portfolio/Online-store-sales-Profit-analysis/commit/9a635f6a5863dcd0da513d14b0ef23694ebac16c)
 
 ## 📌 Project Overview
 
